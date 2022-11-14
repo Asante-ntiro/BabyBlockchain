@@ -12,9 +12,9 @@ The main purpose of the system is to attain the following:
 #### ONE VOTE PER PERSON
  <sub> Voters should not be able to participate in the process twice. You can participate once. </sub>
 #### CONFIDENTIALITY
- <sub> Only a voter knows about the voters choice</sub>
-#### NO ONE CAN OBTAIN INTERMEDIATE VOTING RESULTS
-  <sub> The results will only be known after all votes are tallied  </sub> 
+ <sub> Only the voter knows their voters choice.</sub>
+#### AUDITABILITY
+  <sub> The dataset can be easily accessed after the voting process is completed. </sub> 
 	
 #### SYSTEM	BOUNDARIES
 The verification of a voter's eligibility must be done by trusted organization or a decentralized I.D. (DIDs) system to verify the identity and eligibility of the participant. The system must also be able to tally the final result.
