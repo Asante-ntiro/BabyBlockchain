@@ -1,5 +1,5 @@
-# BabyBlockchain-in-Haskell
-A simple blockchain written in Haskell
+# BabyBlockchain-(formerly in-Haskell)
+A simple blockchain project
 
 
 ## BLOCKCHAIN BASED VOTING SYSTEM
